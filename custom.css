@@ -1,0 +1,104 @@
+/* Change le texte de "Publier" par "Pouet!" */
+.compose-form__publish-button-wrapper button {
+  text-indent: -9999px;
+  line-height: 0; /* Collapse the original line */
+
+}
+
+.compose-form__publish-button-wrapper button:after {
+  content:'Pouet!'; 
+  text-indent: 0;
+  display: block;
+  line-height: initial; /* New content takes up original line height */
+
+}
+
+a[href="/publish"]  > span {
+ display: none;
+}
+
+a[href="/publish"]:after {
+ content:'Pouet!'; 
+}
+
+
+
+/* Copy/pasted from soniop@eldritch.cafe, improved by nileane@nileane.fr used to make emoji bigger when active */
+
+.emojione {
+    transition: transform .8s .5s;
+}
+.emojione:hover {
+    transform: scale(3);
+}
+
+/* utilisé par extérieur */
+body {
+   background: #23003c;
+}
+
+/* Le menu quand zoomé */ 
+.ui__header,.columns-area__panels__pane--navigational .navigation-panel {
+   background: #23003c;
+}
+
+/* utilisé par partie du milieu où y'a les posts */
+.columns-area { /* juste petit bout en bas ??? */
+  background: purple;
+}
+
+.column>.scrollable, .detailed-status, .detailed-status__action-bar {
+  background: #2a0029;
+}
+
+.column>.scrollable:focus, .detailed-status:focus {
+    background: #4e104c;
+}
+
+.drawer__inner__mastodon { /* zéro idée de c koi */
+  background: black;
+}
+
+
+.empty-column-indicator, .follow_requests-unlocked_explanation {
+  background: #2a0029;
+}
+
+/*Les en-têtes de colonnes genre "Notifications */
+account__section-headline a, .account__section-headline button, .notification__filter-bar a, .notification__filter-bar button {
+  /* La couleur des icones genre dans les notifs et tout */
+  color: #f1f7bd;
+}
+
+.tabs-bar__wrapper {
+  background: #23003c;
+}
+
+.column-header {
+  background: purple;
+ }
+
+
+/* Le bouton */
+.button, .button:hover, button, button:hover, .button.button-secondary, .button.button-secondary:hover {
+  color: white;
+  background-color: #ff54bc;
+}
+
+.button:disabled, button:disabled, .button.button-secondary:disabled {
+ background-color: #dda7c8;
+} 
+
+/* Le logo */
+/*
+.ui__header__logo svg {
+ display:none;
+}
+
+.ui__header__logo {
+ width: 100%;
+ background-image: url("https://corneilles.files.fedi.monster/media_attachments/files/109/420/328/774/463/348/original/b95c6a06baf39f26.png");
+ background-size: contain;
+ background-repeat: no-repeat;
+}
+*/
