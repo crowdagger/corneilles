@@ -30,4 +30,4 @@ Cette instance étant gérée par une seule personne et à titre bénévole, je 
 * de communiquer au moins trois mois à l’avance si l’instance devait fermer ;
 * si vous avez un compte sur Corneilles avec un peu d’ancienneté (disons depuis au moins trois mois et avec au moins cinquante messages publiques), de vous laisser un peu de temps pour changer d’instance si je prenais la décision de suspendre votre compte sur Corneilles ;
 * de communiquer le plus rapidement possible si je suis au courant d’une atteinte possible à la sécurité de vos données sur le serveur (faille de sécurité, descente de police, …) ;
-* de fournir une certaine transparence aux usager·e·s de l’instances sur les décisions de modération.
+* de fournir une certaine transparence aux usager·e·s de l’instance sur les décisions de modération.
