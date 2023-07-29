@@ -15,9 +15,18 @@ Corneilles est une petite instance Mastodon francophone queer-centrée à tendan
 
 ### Admin / contact
 
-Corneilles est (pour l’instant) une instance gérée par une seule personne, [Lizie Crowdagger](https://corneill.es/@crowdagger). Elle est hébergée par [Fedi Monster](https://fedi.monster).
+Corneilles est (pour l’instant) une instance gérée par une seule personne, [Lizie Crowdagger](https://corneill.es/@crowdagger). Elle est hébergée par [Fedi Monster](https://fedi.monster). 
 
-Pour tout contact relatif à cette instance (notamment pour des demandes de retrait contenu ou autre signalement si vous n’avez pas de compte Fediverse), vous pouvez me joindre par e-mail à joan at corneill.es.
+Pour tout contact relatif à cette instance (notamment pour des demandes de retrait de contenu ou autre signalement si vous n’avez pas de compte Fediverse, ou encore pour demander un éclaircissement ou faire un appel sur une suspension), vous pouvez envoyer un e-mail à joan at corneill.es.
+
+### Avertissement de contenu, pornographie, ...
+
+Il est *sympathique* de mettre des avertissements de contenus (*content warnings*) lorsque vous parlez de sujets sensibles, mais c'est à l'appréciation de chaque personne qui poste. Les seules exceptions qui pourraient mener à une intervention de la modération sont les images ou vidéos : 
+
+* érotiques avec de la nudité complète (NSFW) ;
+* particulièrement violentes.
+
+Par ailleurs (content warning ou pas), ce que vous postez en public est *de facto* visible par des personnes de moins de 18 ans, merci donc d'éviter de poster des contenus complètement pornographiques.
 
 ### Soutenir
 
