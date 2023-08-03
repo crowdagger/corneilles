@@ -26,6 +26,11 @@ a[href="/publish"]::after {
 /* Copy/pasted from soniop@eldritch.cafe, improved by nileane@nileane.fr used to make emoji bigger when active */
 
 .emojione {
+    height: 40px;
+    width: auto;
+}
+
+.emojione {
     transition: transform .8s .5s;
 }
 .emojione:hover {
