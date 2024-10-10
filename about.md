@@ -6,7 +6,7 @@ Instance Mastodon francophone queer-centrée à tendance gauchiste qui essaie d'
 
 Corneilles est une petite instance Mastodon francophone queer-centrée à tendance gauchiste qui essaie d'être un endroit sympa.
 
-* Francophone : ça veut dire que la langue principale est le français, et que vous devriez comprendre un minimum cette langue pour vous inscrire. Ça ne veut évidemment pas dire que vous ne pouvez pas poster dans d'autres langues à l'occasion !
+* Francophone : ça veut dire que la langue principale est le français, et que vous devriez comprendre un minimum cette langue pour vous inscrire. Ça ne veut évidemment pas dire que vous ne pouvez pas poster dans d'autres langues, à l'occasion ou principalement !
 * Queer-centrée : vous pouvez évidemment parler d'autres choses que de thématiques LGBT. Vous pouvez même éventuellement vous créer un compte sans être LGBT. Mais c'est un espace où on n'a pas à expliquer des principes de base et où les LGBTphobies ne sont pas acceptées.
 * Gauchiste : idem, vous n'êtes pas obligé·e de parler de politique, tant que vous n'allez pas expliquer que la police française est parfaite, que les milliardaires ont travaillé dur ou que c'est dur d'être multi-propriétaire. Staliniens s'abstenir.
 * Un endroit sympa : Corneill.es utilise Glitch pour ajouter quelques fonctionnalités à Mastodon (comme le format Markdown ou HTML pour les pouets), et j'essaie d'ajouter des emojis cools et de tweaker un peu le CSS pour que ça ne ressemble pas trop à toutes les autres instances. Et, évidemment, je fais mon possible pour modérer les trouducs aussi vite que possible.
