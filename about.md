@@ -10,7 +10,7 @@ Corneilles est une petite instance Mastodon francophone queer-centrée à tendan
 * Francophone : ça veut dire que la langue principale est le français, et que vous devriez comprendre un minimum cette langue pour vous inscrire. Ça ne veut évidemment pas dire que vous ne pouvez pas poster dans d'autres langues, à l'occasion ou principalement ! 
 * Queer-centrée : vous pouvez évidemment parler d'autres choses que de thématiques LGBT. Vous pouvez même éventuellement vous créer un compte sans être LGBT. Mais c'est un espace où on n'a pas à expliquer des principes de base et où les LGBTphobies ne sont pas acceptées.
 * Gauchiste : idem, vous n'êtes pas obligé·e de parler de politique, tant que vous n'allez pas expliquer que la police française est parfaite, que les milliardaires ont travaillé dur ou que c'est dur d'être multi-propriétaire. Staliniens s'abstenir.
-* Un endroit sympa :  En dehors d'ajouter des emojis cools et de tweaker un peu le CSS pour que ça ne ressemble pas trop à toutes les autres instances,  je fais mon possible pour que cette instance soit modérée correctement, en tàchant de trouver un équiibre pour protéger les utilisateur·ice·s sans les couper de contenus qu'iels souhaitent voir. 
+* Un endroit sympa :  En dehors d'ajouter des emojis cools et de tweaker un peu le CSS pour que ça ne ressemble pas trop à toutes les autres instances,  je fais mon possible pour que cette instance soit modérée correctement, en tàchant de trouver un équilibre pour protéger les utilisateur·ice·s sans les couper de contenus qu'iels souhaitent voir. 
 
 ## Plus d’informations
 
